@@ -191,9 +191,7 @@ class DepsTableUpdateCommand(Command):
 
 extras = {}
 
-install_requires = deps_list('torch',
-                             'torchvision',
-                             'einops',
+install_requires = deps_list('einops',
                              'numexpr',
                              'matplotlib',
                              'pandas',
