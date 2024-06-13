@@ -11,22 +11,22 @@ torch_package_urls = {
     '3.10': {
         'linux': 'torch-2.3.0%2Bcu121-cp310-cp310-linux_x86_64.whl',
         'windows': 'torch-2.3.0%2Bcu121-cp310-cp310-win_amd64.whl',
-        'darwin':'torch-2.3.0-cp310-none-macosx_11_0_arm64.whl'
+        'darwin':'torch/torch-2.3.0-cp310-none-macosx_11_0_arm64.whl'
     },
     '3.11': {
         'linux': 'torch-2.3.0%2Bcu121-cp311-cp311-linux_x86_64.whl',
         'windows': 'torch-2.3.0%2Bcu121-cp311-cp311-win_amd64.whl',
-        'darwin':'torch-2.3.0-cp311-none-macosx_11_0_arm64.whl'
+        'darwin':'torch/torch-2.3.0-cp311-none-macosx_11_0_arm64.whl'
     },
     '3.8': {
         'linux': 'torch-2.3.0%2Bcu121-cp38-cp38-linux_x86_64.whl',
         'windows': 'torch-2.3.0%2Bcu121-cp38-cp38-win_amd64.whl',
-        'darwin':'torch-2.3.0-cp38-none-macosx_11_0_arm64.whl'
+        'darwin':'torch/torch-2.3.0-cp38-none-macosx_11_0_arm64.whl'
     },
     '3.9': {
         'linux': 'torch-2.3.0%2Bcu121-cp39-cp39-linux_x86_64.whl',
         'windows': 'torch-2.3.0%2Bcu121-cp39-cp39-win_amd64.whl',
-        'darwin':'torch-2.3.0-cp39-none-macosx_11_0_arm64.whl'
+        'darwin':'torch/torch-2.3.0-cp39-none-macosx_11_0_arm64.whl'
     }
 }
 
