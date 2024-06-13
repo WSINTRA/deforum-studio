@@ -66,8 +66,6 @@ torchvision_path = f"https://download.pytorch.org/whl/cu121/{torchvision_url}"
 # 1. all dependencies should be listed here with their version requirements if any
 # 2. once modified, run: `make deps_table_update` to update src/deforum/dependency_versions_table.py
 _deps = [
-    f'torch@{torch_path}',
-    f'torchvision@{torchvision_path}',
     'einops==0.6.0',
     'numexpr==2.8.4',
     'matplotlib==3.7.1',
